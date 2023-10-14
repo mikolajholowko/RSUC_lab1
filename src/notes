@@ -1,0 +1,8 @@
+najpierw wyłuskanie terminów spotkań dla wszystkich drużyn
+wyłuskanie terminów dla poszczególnych drużyn
+podział na dom i wyjazd
+
+
+Drużyny domowe, są takie jak wyjazdowe, zamieniają się w zależności, gdzie grają,
+wyszukiwanie regex po spanie powoduje problem, odczytania drużyny wyjazdowej w danym terminie
+być może jest sposób odczytania drużyn w danym terminie
